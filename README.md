@@ -1,3 +1,5 @@
+Bearer token get by postman
+
 
 POST
 http://localhost:8000/api/articles
